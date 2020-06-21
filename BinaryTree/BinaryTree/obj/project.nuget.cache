@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5O3wwvTzrvd+OT7g7z47HSDejOza/cGPDmgcfwCJUA+e0Rk54GL27VL7CF7hTLeXEzFTI9Ve22B1OkUvoaYFOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eni_a\\OneDrive\\Desktop\\cyril\\BinaryTree\\BinaryTree\\BinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eni_a\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
